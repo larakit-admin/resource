@@ -1,0 +1,9 @@
+{
+    "name": "larakit-admin/resource",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Larakit\\": "src"
+        }
+    }
+}
